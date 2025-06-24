@@ -19,7 +19,7 @@ The dataset used includes daily sales records with variables such as quantity so
 
 ## Executive Summary 
 
-This analysis explores key performance indicators and transaction-level data from a coffee shop to evaluate its business health and highlight strategic opportunities. The assessment revealed a total of 14,117 units sold across 9,971 transactions, generating approximately ₦46,374.25 in revenue and a profit margin of ₦16,230.99. These figures reflect moderate transactional volume with room for improvement in both pricing efficiency and customer upselling strategies.
+This analysis explores key performance indicators and transaction-level data from a coffee shop to evaluate its business health and highlight strategic opportunities. The assessment revealed a total of 14,117 units sold across 9,971 transactions, generating approximately ₦46,374.25 in revenue and a profit margin of $16,230.99. These figures reflect moderate transactional volume with room for improvement in both pricing efficiency and customer upselling strategies.
 
 Snacks, Sandwiches, and Desserts emerged as the top-selling product categories by volume, indicating a high demand for quick-consumption, convenience-based items. Sales trends showed noticeable fluctuations, with January reporting the highest revenue in Q1, followed by a dip in February and a partial rebound in March. This seasonal volatility underscores the importance of promotional campaigns and product positioning during low-performing months.
 
@@ -37,11 +37,11 @@ Overall, the insights derived from this analysis serve as a strategic roadmap fo
  
 This figure reflects the overall sales volume across all product categories during the review period.
 
-**Total Revenue:** ₦46,374.25
+**Total Revenue:** $46,374.25
 
 The gross income generated from all recorded transactions, indicating the shop’s income-generating capacity.
 
-**Total Profit Margin:** ₦16,230.99
+**Total Profit Margin:** $16,230.99
 
 Represents the net earnings after accounting for product costs, offering a snapshot of profitability.
 
@@ -61,11 +61,11 @@ These categories show consistently strong demand and should be prioritized in in
 
 Sales Trend Observation (Q1):
 
-•	January recorded the highest revenue: ₦1,695.79
+•	January recorded the highest revenue: $1,695.79
 
-•	February experienced a decline: ₦1,105.39
+•	February experienced a decline: $1,105.39
 
-•	March showed partial recovery: ₦1,429.73
+•	March showed partial recovery: $1,429.73
 
 These fluctuations suggest a potential seasonality in customer spending behaviour.
 
@@ -90,11 +90,11 @@ o	Desserts (2,050 units)
 
 - Top Categories by Revenue:
   
-o	Desserts (₦7,204.40)
+o	Desserts ($7,204.40)
 
-o	Sandwiches (₦6,756.61)
+o	Sandwiches ($6,756.61)
 
-o	Tea Beverages (₦6,674.11)
+o	Tea Beverages ($6,674.11)
 
 Insight:
 
@@ -118,7 +118,7 @@ Optimized product mix strategy, increased revenue per transaction, and improved 
  
 **2. Revenue and Profitability**
 
-Fact: The coffee shop generated a total revenue of ₦46,374.25, with a profit margin of ₦16,230.99, across 9,971 transactions.
+Fact: The coffee shop generated a total revenue of $46,374.25, with a profit margin of ₦16,230.99, across 9,971 transactions.
 
 Insight: While transaction volume is high, the average revenue per transaction remains modest, suggesting an opportunity to boost spend per visit.
 
@@ -133,9 +133,9 @@ Fact:
 
 Revenue across the two years followed a consistent monthly pattern:
 
-•	2021: Sales peaked in January (₦1,695.79), dropped sharply in February (₦1,105.39), then recovered moderately between March and December, averaging roughly ₦1,200 – ₦1,300 monthly.
+•	2021: Sales peaked in January (₦1,695.79), dropped sharply in February (₦1,105.39), then recovered moderately between March and December, averaging roughly $1,200 – $1,300 monthly.
 
-•	2022: The trend repeated, with a strong start in January (₦1,660.00) and similar mid-year stabilization. The February dip (₦1,255.85) was less severe, and March (₦1,258.79) maintained the rebound pattern.
+•	2022: The trend repeated, with a strong start in January ($1,660.00) and similar mid-year stabilization. The February dip (₦1,255.85) was less severe, and March (₦1,258.79) maintained the rebound pattern.
 
 Insight:
 
@@ -156,11 +156,11 @@ More resilient monthly revenue, better demand forecasting, and higher sales rete
    
 Fact: Revenue by branch reveals the following:
 
-•	Central Park: ₦10,929.97
+•	Central Park: $10,929.97
 
-•	Madison Street: ₦5,799.48
+•	Madison Street: $5,799.48
 
-•	Capitol Hill: ₦5,526.11
+•	Capitol Hill: $5,526.11
 
 Central Park leads significantly, generating nearly double the revenue of the next branch.
 
@@ -213,7 +213,7 @@ The close range in sales volumes across multiple product categories — such as 
 
 **2. Opportunity to Improve Low-Revenue Transactions**
 
-With nearly 10,000 transactions processed but only ₦46,374.25 in total revenue, the average revenue per transaction is under ₦5. This points to either small basket sizes or low-priced items dominating sales. There’s a clear opportunity to increase transaction value through curated bundles, value-added offerings, or loyalty-driven incentives.
+With nearly 10,000 transactions processed but only ₦46,374.25 in total revenue, the average revenue per transaction is under $5. This points to either small basket sizes or low-priced items dominating sales. There’s a clear opportunity to increase transaction value through curated bundles, value-added offerings, or loyalty-driven incentives.
 
 **3. Profitability Concentrated in Select Product Lines**
 
@@ -225,11 +225,11 @@ The similarity in revenue dips and recoveries across Q1 in both 2021 and 2022 su
 
 **5. Central Park Branch as a Model Store**
 
-The Central Park branch significantly outperforms others, generating over ₦10,000 in revenue — almost double what the next branch achieves. This location could serve as a blueprint for operational excellence, customer engagement, or product placement strategies in other outlets.
+The Central Park branch significantly outperforms others, generating over $10,000 in revenue — almost double what the next branch achieves. This location could serve as a blueprint for operational excellence, customer engagement, or product placement strategies in other outlets.
 
 ## Conclusion
 
-This analytical review of the coffee shop's operational data reveals a business that has built a solid foundation across product diversity, customer reach, and location presence. The shop recorded over 14,000 units sold across nearly 10,000 transactions, generating a revenue of ₦46,374.25 with a profit margin exceeding ₦16,000. These figures confirm a healthy level of engagement and transactional activity.
+This analytical review of the coffee shop's operational data reveals a business that has built a solid foundation across product diversity, customer reach, and location presence. The shop recorded over 14,000 units sold across nearly 10,000 transactions, generating a revenue of $46,374.25 with a profit margin exceeding ₦16,000. These figures confirm a healthy level of engagement and transactional activity.
 
 Key findings highlight that Snacks and Sandwiches drive volume, while Desserts and Tea Beverages deliver stronger revenue per unit, underscoring the need for a product strategy that balances affordability with margin optimization. The branch-level analysis identifies Central Park as a performance leader, suggesting an opportunity to replicate its model across less active locations like Madison Street and Capitol Hill.
 
