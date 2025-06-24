@@ -19,7 +19,7 @@ The dataset used includes daily sales records with variables such as quantity so
 
 ## Executive Summary 
 
-This analysis explores key performance indicators and transaction-level data from a coffee shop to evaluate its business health and highlight strategic opportunities. The assessment revealed a total of 14,117 units sold across 9,971 transactions, generating approximately ₦46,374.25 in revenue and a profit margin of $16,230.99. These figures reflect moderate transactional volume with room for improvement in both pricing efficiency and customer upselling strategies.
+This analysis explores key performance indicators and transaction-level data from a coffee shop to evaluate its business health and highlight strategic opportunities. The assessment revealed a total of 14,117 units sold across 9,971 transactions, generating approximately $46,374.25 in revenue and a profit margin of $16,230.99. These figures reflect moderate transactional volume with room for improvement in both pricing efficiency and customer upselling strategies.
 
 Snacks, Sandwiches, and Desserts emerged as the top-selling product categories by volume, indicating a high demand for quick-consumption, convenience-based items. Sales trends showed noticeable fluctuations, with January reporting the highest revenue in Q1, followed by a dip in February and a partial rebound in March. This seasonal volatility underscores the importance of promotional campaigns and product positioning during low-performing months.
 
